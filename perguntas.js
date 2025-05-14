@@ -1,19 +1,19 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Quantas copa do mundo o Brasil tem?',
+    'Brasil tem 5 copas do mundo.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quantos paulistão o corinthians tem?',
+    'Corinthians tem 32 paulistão.'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual foi a seleção a ultima a ganhar a copa do mundo?',
+    'Ultima seleção foi a Argentina.'
 )
 
 criaCartao(
